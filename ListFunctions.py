@@ -5,7 +5,7 @@ Program to demonstrate the different functions of a list in python
 
 @author: Appu13
 '''
-from pip._vendor.chardet import langbulgarianmodel
+
 
 
 # Creating a sample list
